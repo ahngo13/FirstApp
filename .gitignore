@@ -287,6 +287,8 @@ dist/
 tmp/
 temp/
 
+MRP/
+
 ### ReactNative.Buck Stack ###
 buck-out/
 .buckconfig.local
