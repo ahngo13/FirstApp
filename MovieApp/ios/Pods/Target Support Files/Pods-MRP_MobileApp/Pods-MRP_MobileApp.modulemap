@@ -1,0 +1,6 @@
+module Pods_MRP_MobileApp {
+  umbrella header "Pods-MRP_MobileApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
